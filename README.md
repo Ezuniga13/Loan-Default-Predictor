@@ -1,1 +1,3 @@
-For this project I used a logistic regression model to predict whether an applicant would default on a loan.
+# loan-classification
+Metis classification project: modeled a loan default predictor using logistic regression and gave recommendations on how to handle risk based on tolerance.
+
