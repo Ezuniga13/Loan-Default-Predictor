@@ -3,7 +3,7 @@ For this project I took data from the [Lending Club](https://www.lendingclub.com
 
 ## Table of Contents
 1. [Lending Club](https://github.com/Ezuniga13/loan-classification#lending-club)
-2. [Logistic Regression]()
+2. [Logistic Regression](https://github.com/Ezuniga13/loan-classification#logistic-regression)
 3. [Data](https://github.com/Ezuniga13/loan-classification#Data)
 
  
@@ -15,3 +15,4 @@ For this project I took data from the [Lending Club](https://www.lendingclub.com
 
 
 ## Data
+[Jupyter Notebook](https://github.com/Ezuniga13/loan-classification/blob/main/Loan_default.ipynb) 
