@@ -15,4 +15,4 @@ For this project I took data from the [Lending Club](https://www.lendingclub.com
 
 
 ## Data
-[Jupyter Notebook](https://github.com/Ezuniga13/loan-classification/blob/main/Loan_default.ipynb) 
+[Jupyter Notebook](https://github.com/Ezuniga13/loan-classification/blob/main/Loan_default.ipynb) of the main project work. 
